@@ -1,0 +1,14 @@
+---
+layout: post
+status: publish
+published: true
+title: man touch
+date: '2014-08-21 07:05:57 -0700'
+date_gmt: '2014-08-21 07:05:57 -0700'
+categories: [daily, programming]
+tags: [daily, programming]
+---
+<p>So I just googled man touch because I wanted to see what touch did. I always used it to create an empty file but I guess it's used to do that, and also to update the last updated timestamp.</p>
+<p>It was really funny because I wasn't sure if I was going to have all the search results of a man touching something or touching himself... so it was a risky google search. But then google being google, the man page for touch was the first result. Damn, google is so smart.</p>
+<p>I wonder if google has custom search results based on your search history. Google probably profiled me as a programmer since I google so much stack overflow shit and how to fix bugs... I wonder if man touch would have a different search result for different people. &#47;shrug</p>
+<p><strong>tl;dr - i googled 'man touch' and the first result was the manual page which is surprising... and good.<&#47;strong></p>

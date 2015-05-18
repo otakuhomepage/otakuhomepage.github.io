@@ -1,0 +1,17 @@
+# Site settings
+title: otakuhomepage
+email: alan@otakuhomepage.com
+description: > # this means to ignore newlines until "baseurl:"
+    This site is my personal blog. I'm otaku. I like anime and manga. I also code and like to write down my thoughts.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.otakuhomepage.com" # the base hostname & protocol for your site
+twitter_username: otakuhomepage 
+github_username: otakuhomepage 
+
+# Build settings
+markdown: kramdown
+
+menu-categories: [about, anime, manga, jdrama, learnings, video games, books, programming]
+alan-tags: [anime, manga, video games, movies, random, daily, weekly]
+alan-categories: [about, anime, manga, jdrama, learnings, video games, books, programming, stuff]
+paginate: 15

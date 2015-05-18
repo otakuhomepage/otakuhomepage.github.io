@@ -1,0 +1,18 @@
+---
+layout: post
+status: publish
+published: true
+title: feels like i'm missing something
+date: '2014-10-30 18:17:27 -0700'
+date_gmt: '2014-10-30 18:17:27 -0700'
+categories: [daily, mental, work, thoughts]
+tags: [daily, mental, work, thoughts]
+---
+<p>So I recently read this article on hacker news - <a class="smarterwiki-linkify" href="http:&#47;&#47;thebillfold.com&#47;2014&#47;10&#47;my-day-interviewing-for-the-service-economy-startup-from-hell&#47;">http:&#47;&#47;thebillfold.com&#47;2014&#47;10&#47;my-day-interviewing-for-the-service-economy-startup-from-hell&#47;<&#47;a></p>
+<p>I feel really spoiled when reading it. As a Software Engineer it was so easy for me to find employment after graduation. Right after graduating I was making a 'low' salary. 75k per year. In my job I had complete autonomy in a sense that I can get up and leave the office for coffee whenever I want. I can make personal phone calls &#47; go see the dentist etc. I've never had a micro-manager and I don't think I'd ever stay at a company that micro-managed me. After a year there I got a 20k raise. But then I wanted more. Some of the more senior engineers left and I was suddenly a senior engineer. I guess it was time for me to leave.</p>
+<p>After a relatively short job search. My last day on the job was August 1st and I decided on my next workplace by August 16th. So basically in 2 weeks I was employed. I got pretty much everything that I was looking for. I'm working at a company with really smart people. People who are smarter than me that I can learn from. I get catered lunches and dinners everyday. I got a big salary bump and achieved one of my goals&#47;dreams of making >100k per year.</p>
+<p>I really enjoy software engineering. I've actually never worked any other job in my life so I think I'm especially spoiled. Maybe I would appreciate what I have now if I had to suffer as a cashier at No Frills or Macdonald. Honestly, there's no other job that I can see myself doing. Right now I get to work with really smart people. I'm building cool stuff in Python. A lot of what I do is coding while listening to music - and that's wonderful. But it feels like... I'm missing something. There's something better than I want. But. I don't even know what it is. What could be better than I currently have? Honestly. Not much.</p>
+<p>I'm working long hours now I guess. But it isn't really anything unexpected. There are people in the office who work longer hours than me. There are people in the world who work long hours and do harder stuff who get paid less. I do read a lot... and writing these makes me think that I'm depressed or something.</p>
+<p>But then today I did yoga. I had lunch with a friend. I walked around Union Square in the beautiful California weather. Just recounting my day brings a smile to my face. My life is good. So I guess that rules out depression. Then... what is it that I'm feeling. I've gotten everything that I've wanted in my job search. Living in San Francisco with Amazon Prime, Instacart, Lyft&#47;Uber, Sprig, Eat24hours, TaskRabbit etc. I got my place cleaned by a professional the other week. It's so shiny and amazing. I mean it probably would've taken me a whole day but it only took her 2.5 hours.</p>
+<p>I thought writing this out would help me find what I'm missing. It didn't really. I really appreciate what I have now. I'm just feeling the angst... it's the feeling that you get when you know that somethings gotta change. But I don't actually know what it is. bleh.</p>
+<p><strong>tl;dr - feeling angst and not sure what I need to change. Life is good but something feels off<&#47;strong></p>

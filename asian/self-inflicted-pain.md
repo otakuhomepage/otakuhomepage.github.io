@@ -1,0 +1,18 @@
+---
+layout: page
+status: publish
+published: true
+title: self inflicted pain. am i masochist?
+date: '2014-12-15 03:47:11 -0800'
+date_gmt: '2014-12-15 03:47:11 -0800'
+categories: [family]
+tags: [family]
+---
+<p>I just called my grandparents. I don't know why I keep doing it. Every phone call just makes me angry and sad. Family is important to me I guess. At the same time... I'm starting to question the purpose of family. Having moved to the States for about 1.5 years it seems that all the family I meet are warm, loving and supportive. I think Asian parents are different. Or at least mine were. I don't recall any warm moments or loving support growing up. Nothing I did was praiseworthy since there were always someone better.</p>
+<p>So I called my grandparents and the first thing they talk about are demands of me. I should give back to the family. Now that I have a job and I'm employed I need to pay back my family. Did my family raise me in order to get 'paid back'? I certainly hope not. It feels like endless slavery to me. You get raised by your parents, and your parents expect you to live the way they want you to. They expect you to do so and so.</p>
+<p>Sure, I'm employed and in the eyes of outsides and most people. I'm well paid. I make over 100k a year. But I'm trading in my time for money. While there's nothing I would rather do besides work in the Software Engineering field. I wish I didn't have to trade my time for money. I wish that I could just travel the world and not have to worry about finances and taking care of myself. Why does it seem so trivial for my parents to ask me to accept slavery on their behalf. A round trip flight home including non-flight expenses would cost me $3k. That's like almost a month of labor. I had to work a month to visit you for 2 weeks.</p>
+<p>My grandma in particular really likes telling me what to do and worrying for no reason. In particular, I told her I was working on side projects in order to see if I could make so money on the side. You know what she told me? Don't go breaking the law. Yes. She told me: 'don't go breaking the law'. Ugh. Not sure what to take from that. Sigh. So I'm 25 now. And my parents are worried by the fact that I'm single. It doesn't matter that I'm sublimely attractive and mansome. That's purely my ego talking, but from reference experience I'd say I'm pretty awesome.</p>
+<p>My grandma loves giving permission. On the phone she gave me permission to start dating. WTF. I don't need your permission to do shit. Why do you keep doing that. She keeps giving me permission to start dating. She gives me permission to spend my income buying stuff I want. Blargh. I think that's why I'm all kinds of fucked up.</p>
+<p>Like, when I first started working. I almost asked my manager if I was allowed to go take a piss. Or allowed to get a coffee. Sigh. Maybe that's why China will never overtake the US. There's to much authority and command system in China that when left to their own devices Asians don't know what to do.</p>
+<p>I've been trying really hard to unprogram my Asian upbringing. But it still messes me up. Sometimes at work it feels like I'm never doing enough. I think Asians raise people with the biggest imposter syndrome. Despite the my contributions at work... I still feel like I could get fired at any moment. Even if that were true, I don't need to worry because I know I can handle getting fired. It's trivial for me to find a job and take care of myself - because I'm capable of taking care of myself. Blargh. Why do I keep calling home.</p>
+<p><strong>tl;dr - I feel like my Asian upbringing fucked me up. And each phone call to my grandma just reminds me of all the fucked up shit I had to deal with and re-subject myself to<&#47;strong></p>

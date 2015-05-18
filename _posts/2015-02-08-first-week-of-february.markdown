@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: first week of february
+date: '2015-02-08 10:57:20 -0800'
+date_gmt: '2015-02-08 10:57:20 -0800'
+categories: [weekly]
+tags: [weekly]
+---
+<p>I missed my Wednesday post and possibly my post from last week because recently I haven't been time bending as much. I've been really stressed and busy with work life and I want to keep my regular life simple and with patterns and less decision making to not tire myself out.</p>
+<p>I've been slacking recently when it comes to working out and getting proper sleep and stretching. This weekend my time bending activity was going to Las Angeles and the Disneyland in Anaheim. The events so far have been normal though. I've been to both LA and Disneyland so I guess the events weren't special.</p>
+<p>Well, the major time bending activity of the week is that I fucking face planted on the pavement by the entrance of Disneyland. My friend bet me that I didn't have to vertical to frog jump onto this pole that was on the ground. I told him I could do it without using my hands and thus the challenge was accepted</p>
+<p>So.. I was wearing my converse on the trip to Disneyland. I should've been able to predict that my converse would have no grip and slide right off the surface of the pole but I didn't. Here's a play by play of what happened. I take a running start towards the pole. I jump and get both my feet onto the pole. The pole is slippery like ice and my left foot slides off way faster than the right. I initially thought that I would land on my balls and be in intense pain, but I think from a viewers perspective... my friend said it looked like I landed on my balls on the pole. Then... after that, I face plant into the pavement without even using my hand or arms to shield myself. &nbsp;Too jokes.</p>
+<p>I hit the ground pretty hard and didn't even shield myself. I think I must've momentarily blacked out. When I got up I thought my balls would be killing me... but luckily the pole hit me on the back &#47; inner thigh. Lucky~. Well... that's about the only lucky aspect of the incident... that my balls are intact. Since I didn't even shield my fall with my arms... my face took the most damage. There were 3 cuts on my face and one of them looks quite nasty. &#47;shrug.</p>
+<p>The funny thing is that this reminded me of the time when me and Albert had to return our assignment in the morning after working overnight. The two of us biked towards the University and dropped off our assignment. And then as we were biking back, I on my bike decided to close my eyes for just one second. Turns out that one second was much longer and I lost my balance and fell off my bike. I hit the ground without my arms protecting me and everyone walking around was like "Are you okay?". My friend who was there with me asked me if I was okay while trying to hold back the biggest grin I've ever seen on his face.</p>
+<p>Too jokes. After I confirmed that I was okay he started laughing non stop. Today's incident reminded me of that because the friend who made the bet was me was like 'Are you okay?' while holding back the biggest grin and laugh until he confirmed I was fine. I guess that's how true friends act? I'ld probably just break into laughter... no wait.</p>
+<p>This other time my friend and I were walking home together and we both jumped onto a patch of ice. I recovered and walked on.. but then I saw that he slipped and it looked to me like he fell in slow motion and eventually landed on his back. I asked him if he was okay before I broke into laughter about how I saw his fall in slow motion and how it was a picture perfect moment. Too jokes. Good times.</p>
+<p>I'll be returning to work on Monday was some visible damage on my face. I've decided to say that I got into a bar fight and how everyone should see the other guy. But then I'll probably have to tell the truth. I'll tell all my coworkers that I attempted parkour and face-planted... which is essentially what happened.</p>
+<p><strong>tl;dr - went to disneyland. tried parkour and face planted.<&#47;strong></p>

@@ -1,0 +1,7 @@
+{% for page in site.pages %}
+  {% if page.categories contains 'learnings' %}
+    <div class="item">
+      <a href="{{page.url}}"><h3>{{page.title}}</h3></a>
+    </div>
+  {% endif %}
+{% endfor %}

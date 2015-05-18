@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: becoming a better programmer
+date: '2014-10-31 13:21:14 -0700'
+date_gmt: '2014-10-31 13:21:14 -0700'
+categories: [daily, programming]
+tags: [daily, programming]
+---
+<p>So I recently read this article - http:&#47;&#47;okepi.wordpress.com&#47;2014&#47;08&#47;21&#47;how-to-become-a-programmer-or-the-art-of-googling-well&#47;</p>
+<p>Reading through that article was an interesting experience. I think I've already reached the level where I have the belief that I can build anything in Software. There's nothing that I can't figure out in the Software world. And a large part of that is pretty much googling.</p>
+<p>In the past, I too saw programming gods everywhere. But now I don't really see programming gods. I see people who are better than me. They are more solid than me through dedication and experience. Ever since I started seriously investing in my technical education. Reading programming books, doing side projects, volunteering for the hard shit at work - I've been seeing noticeable improvements in my code quality and results.</p>
+<p>It's kind of scary though. As I just started my new job. Within my 3rd week I was touching areas of the code that affected payments and stuff. I had to do a refactoring on price calculations. That's some scary stuff because a mistake would mean losing money or charging people the wrong amount.</p>
+<p>I was recently sitting around at lunch and the more senior engineers were talking about hiring. So what happened with me is that I always get way too much time for the 'ask me questions' part of the interview. Turns out the reason for that is because you finished all the interviewer's planned questions. Too jokes. I had a huge grin on my face because it's like a TIL moment. So *that's* why I always have so much time for questions in interviews. I'm too fast. =&#47;</p>
+<p>On the subject of interviews I think I've already developed a sense of arrogance. It's probably not good for me. In a sense that I feel that there's a large majority of interviewer's who are weaker than me. I guess I get annoyed when I'm being interviewed by someone who hasn't shown me how amazing they are. I was recently browsing the code schools and it's like. Learn from our amazing instructors - they built websites with ruby on rails. And I'm just like... how is that an achievement? Cool. They're google engineers. That doesn't really tell me how great they are.</p>
+<p>I kind of wish that I still saw programming gods everywhere. I think back when I saw programming gods... It felt like I still had so much to work towards. As in the gap between us was so great I had to work really hard to get closer. Not that I don't work hard at getting better. I still read programming books, and do side projects. It's just that... I guess I missed having the goal of reaching for the stars. It's so much cooler to reach for godhood.. than reach the peak of humans.</p>
+<p>Reading through the article it's weird how I understand all the programming lingo in italics. It's really weird because growing up I dreamed of working at google. And recently a google recruiter reached out to me... during the period I was job searching. And now - I don't even want to work at google. It's like here's this cool opportunity to interview and work at google and in my mind I'm thinking ~ waste of my life. I think start ups really do provide a much better learning environment - although life is harder.</p>
+<p>I guess I miss the time when I was impressed by the accomplishments of almost everyone I met. Like in the story of the person who built something from nothing and had it work with twilio. It might have been impressive to me back when I was in college. But now in my mind - I can do it. And all my peers can do it. It's not really impressive. I miss having my mind blown by stuff that people could do. You built that iOS app in 8 hours?! I know people who could do it. In the case of iOS... I could probably do it myself.</p>
+<p><strong>tl;dr - there are no programming gods. only really experienced and competent software engineers<&#47;strong></p>

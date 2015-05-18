@@ -1,0 +1,9 @@
+<ul>
+{% for page in site.pages %}
+  {% if page.categories contains 'anime' %}
+    <li class="item">
+      <a href="{{page.url}}">{{page.title}}</a>
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
