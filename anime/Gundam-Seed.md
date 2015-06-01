@@ -13,5 +13,5 @@ Kira is just a regular high school student. He's actually a Coordinator but he w
 
 I think Gundam Seed is a classic in the mecha and specifically the Gundam series. I think Gundam Wing, Gundam Seed, and Gundam 00 are the must watch series of Gundam. Gundam Seed lays the groundwork for Gundam Seed Destiny. And this show has amazing music and Kira. Kira is such a badass. There's a lot of anime cliche and stuff... but overall I really enjoyed this series. I remember watching it as a kid and it blew my mind and even now it's so entertaining. Also... the gundam games are so good. You should watch this just so you know the Gundam Seed gundams for the video games. There are quite a few important suit knowledge to learn.
 
-tl;dr - watch this if you enjoy mecha and amazing anime music. also... Kira is badass.
+**tl;dr - watch this if you enjoy mecha and amazing anime music. also... Kira is badass.**
 
