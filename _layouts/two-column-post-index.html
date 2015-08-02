@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="main">
+        <div class="side-menu">
+            {% include post_siblings.html %}
+        </div>
+        <div class="content">
+            {% include all_posts_in_category.html %}
+        </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

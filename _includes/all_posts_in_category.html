@@ -1,0 +1,12 @@
+<!-- <h3>Other {{page.categories[0]}} </h3> -->
+{% for temp in site.posts %}
+{% if temp.url != page.url %}
+  {% for category in temp.categories %}
+    {% if page.categories contains category %}
+    	<h3>{{temp.title}}</h3>
+        {{temp.content}}
+        {% break %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+{% endfor %}
