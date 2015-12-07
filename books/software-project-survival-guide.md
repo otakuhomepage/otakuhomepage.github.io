@@ -1,0 +1,22 @@
+---
+layout: two-column-page 
+title: "Software Project Survival Guide"
+date:  2015-12-07 00:52:17
+categories: [books, programming]
+tags: [books, programming]
+---
+[Software Project Survival Guide](http://amzn.to/1LY0tai) was a book that was recommended by an amazing software engineer coworker of mine. I read it over a one week period. This isn't a book about improving your technical skills. I'd say it's more about project management and how to work in a large organization. The focus on the book is managing and planning for medium to large software projects that span many months to years.
+
+It goes through the typical projects and kind of outlines areas where most companies get it wrong. As well as showing what a typical well managed project is suppose to look like. I learned a few key things during this book which made it a good read. One is that in the investigative portion of a software project - it's normal and expected that very little code gets written. I would always feel weird not writing code in the beginning phase of a project. Like - other people see that I have no commits or check-ins but they don't really have visbility into my research and learnings so I always felt kinda pressured / stressed to move on to the coding part. I guess I feel validated that I spend a sizeable portion of the project not writing code and just figuring stuff out.
+
+The other thing that was really important reinforcement of what I already knew is that. Planning is really important. Technical planning on what part needs to be built and the various tasks and estimates that go with it. The early that a defect is caught for is better. Since catching it in the planning / conception stage is much cheaper. When you get to the implementation stage and find out that there was a flaw in your plan. It's 50-200x moer expensive to fix it. 
+
+The last major thing that the book mentioned was staged delivery. I didn't actually know what it was.... but I think I just used staged delivery like... without knowing it. Basically... what it means is that you should ship your software in interations with various functionality. And each iteration should add more functionality to the project. But the functionality should be complete at each iteration and both usable and testable. I think that kind of follows the agile methodology and iterating on your software.
+
+I feel that a lot of the uh... book was targetted at large corporations and larger codebases with bigger teams and longer timelines. Working at a startup... most projects don't have many engineers and the timelines are usually short 3~6 months. But - one project I was on was estimated to be 3 months and actually took 6 months... so that's a 100% increase - which means that the techniques in this book would've helped out.
+
+The other thing that I learned was that...there should be re-estimation when software is delivered in phases. It's not really 'slippage' since it's more that the initial estimate was off because there wasn't enough information. As more information is known... estimates should be updated. And it's important that management doesn't view it as 'slippage' since estimates are just estimates.
+
+So beyond the fact that this book is targetting mega-corps. A lot of it is on the software lifecycle that doesn't even exist. Of the two startups that I've worked at. We didn't have QA guys. Which - I don't agree with since Joel says QA is uber important and I also think that it's uber important. But that's a separate topic. Also, much of the book is on managing the team both upwards and downwards. I feel that the book would be more benefitial for product managers / project managers than me. I guess tech leads would also benefit a lot from reading it. I think I would rather be a individual contributor even as I grow as a software engineer. I do think that reading this book has helped me in a sense that I feel much more confident in the way that I complete work and I think it'll help me communicate more and be more transparent for future projects.
+
+***tl;dr - I think this book has like 20% gold content... but it's also padded with a lot of stuff. Recommended for tech leads / product managers / project managers. It'll help individual contributors / junior engineers as well but I think you'd get better bang for your buck reading something else like [The Effective Engineer](http://amzn.to/1HPNDQw) or other books.***
