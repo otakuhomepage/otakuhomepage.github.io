@@ -1,0 +1,18 @@
+---
+layout: post
+title: "The 10000 hour rule"
+date:  2015-12-08 01:38:48
+categories: [thoughts]
+---
+So I returned to work after my break today. It was good. I moved to a new location and new team and I'm ready for new challenges. I think my goals of getting better and the company's goal of building stuff is aligned so life is good.
+
+The thing that I wanted to write about today is the mythical 10000 hour rule to mastery. I've already put in my 10000 hours into programming and building cool stuff. So in a way... I'm already a master of software development. I did the calculation like so. I have about 5 years of full time experience. That's 40 hours per weeeks x 52 weeks x 5 years or 10400 hours. I've been programming on weekends for side projects, reading programming books and articles. I'm fairly certain I have much more than 10000 hours of programming. Yet... I still think that I have so much to improve on. On one hand, I think working in Silicon Valley is the equivalent of the NBA / UFC of software engineering. It's like... the biggest league that you can play on. But on the other hand... I feel that I'm still so far away. If I'm a master... there's a grandmaster tier above me and a uh... world champion tier above that.
+
+I guess the grandmaster tier of software engineering is like... when you have so much experience and knowledge that you just build things better and faster. And you also see connections before the path gets fully explored. I was just put on a new team and we were discussing algorithms and plans for this project. And then it was like... how come you don't do it this way? And the guy was like... oh yeah because of x reason we don't do it this way. And x reason... it's something that I understand, and I think I would arrive to it... but I'd have to explore and actually build out the initial plan... before realizing it was a dead end. I guess... grandmasters are just more experienced and slightly smarter? And of course... world champion is like... Guido or uh... Jeff Dean.
+
+I did some rough math... I guess it takes about 5 years of intense practice to become a master at something. I'm already 27. So in addition to programming... I can only become a master at 2 other things before I'm... 40. O.o. That's... kinda a depressing thought. Well... I think I could become a master at piano again... only because I was once really good and I think I put in at least 800 hours towards that. I think I can still put in the years to become a master of MMA. But... the wear and tear on my body... not sure I can handle it anymore.
+
+Hmmmm. Kinda sad I guess. I'm old. Well... I'm not that old. I'm the same age as Jon Jones... and Jon Jones is the world champion and an unstoppable monster. I kinda wish I could go back in time to when I could just run full throttle without warming up or just blast weights with no warm up. Hmmm. It's probably bad. Sometimes I feel like... I've wasted my time. I just spent most of my 3 weeks off playing video games. Instead I could've been... training in boxing or something. =|
+
+***Whatever. Life is good. Time is valueable. Become a master.***
+
