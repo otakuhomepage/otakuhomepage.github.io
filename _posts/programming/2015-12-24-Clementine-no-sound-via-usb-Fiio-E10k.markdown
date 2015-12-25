@@ -9,3 +9,5 @@ So I'm on Linux. I just got a Fiio E10k. And hooked it up. Everything seemed wor
 ```sudo apt-get install gstreamer0.10-alsa```
 
 And now I have perfect clementine audio over usb to my Sennheiser HD 650. Life is good.
+
+Forgot that you need to change the preferences from within clementine to use audio sink (alsa).
