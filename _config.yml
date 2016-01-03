@@ -11,7 +11,7 @@ github_username: otakuhomepage
 # Build settings
 markdown: kramdown
 
-menu-categories: [about, anime, manga, jdrama, learnings, video games, books, programming, stuff]
+menu-categories: [about, anime, manga, jdrama, ted, thankful, weekly, video games, books, programming, stuff]
 alan-tags: [anime, manga, video games, movies, random, daily, weekly]
-alan-categories: [about, anime, manga, jdrama, learnings, video games, books, programming, stuff]
+alan-categories: [about, anime, manga, jdrama, learnings, video games, books, programming, stuff, ted, thankful]
 paginate: 15
