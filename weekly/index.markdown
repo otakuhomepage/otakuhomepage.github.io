@@ -5,6 +5,6 @@ published: true
 title: Stuff 
 date: '2014-12-08 02:56:12 -0800'
 date_gmt: '2014-12-08 02:56:12 -0800'
-categories: [thankful]
-tags: [thankful]
+categories: [weekly]
+tags: [weekly]
 ---
