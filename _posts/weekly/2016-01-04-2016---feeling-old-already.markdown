@@ -13,3 +13,5 @@ I went to the gym today in the rain... which was good I feel kinda badass. I mis
 I started watching the drama because it was highly rated and it was on my watch list. And I recently read a blog post on the Japanese salaryman by Patrick McKenzie aka Patio11. Japanese culture is so... interesting I guess. On one hand you undoubtedly have the crazy customs and stuff... on the other hand they somehow manage to make shit work despite the craziness and churn out amazing anime/drama/electronics. It's weird.
 
 Tomorrow is the first day of kpop dance class. It'll be nice to be just in the class and not doing a workshop. Regular class is so much more fun. 
+
+Wow. Flashback of a scene in the same episode. That drives me nuts. Blargh. Flashback twice of a scene in the same episode. Also drives me nuts.
