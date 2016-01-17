@@ -1,0 +1,36 @@
+--
+layout: post
+title: "Legend of the Condor Heroes"
+date:  2016-01-16 17:00:51
+categories: [thoughts]
+---
+I really like wuxia. I think growing up watching wuxia shows on TV was shaping my mind and stuff. I recently watched the 2015 version of Legend of the Condor heroes. I've seen the show so many times... from the Louis Koo version to the Liu Yifei version and a few in between.
+
+The thing about reading / watching a story is that everything is so perfectly scripted. Every character you meet through the eyes of the protagonist eventually comes back into the story somehow. Since all the irrelevant characters don't get mentioned. Everything always happens at the perfect time. Right when the hero is about to meet death... a miracle happens. And you know.. miracles just always happen in the worse of times. And also tragic occurences also happen at the worse of times. Right when it's about to become a happily ever after setting... boom monkey wrench. Aside from the fact that I really enjoy these shows I guess I'll just write about some of the bad thought patterns that I think shows like these introduce.
+
+The main character is always born into badassery. In the case of Yang Guo... his father was a prince. His father's sworn brother is Guo Jing. Guo Jing is like... #1 in the entire series of LOCH. But even before he meets Guo Jing. He meets the poisonous dude. The poisonous dude was top four in the world of the previous generation. The master than his father desperately wanted to study under. So he got training from a top 4 of the world by the age of 10. And then he met Guo Jing who was the #1 of the world. That's like... unbelievable luck man. Since UFC is the only sport that I follow. That would be equivalent to getting trained by Anderson Silva from ages 5~10 and then having Jon Jones look after your growth or something.
+
+By the age of 10. He's already met the #1, and a top 5 in the world. Then as he gets abused by the monks and lives a shitty life. Some grandma saves him from the villains and he gets to train in the tomb with a goddess/prodigy. His new master is stronger than everyone at the entire previous stupid thing. And he somehow magically has access to all the sword manuals and inner manuals that would enable him to become a top tier in the world. By the time he's 15... he's already witnessed the uber elites.. *and* gained access to knowledge that would enable him to become uber elite. Of course he isn't already an uber elite.
+
+As he's looking for his master he runs into the old leader of the beggar sect. Another top 4 of the previous generation and the master of the legendary Guo Jing. He learns the stick pattern from the beggar. The stick thing is like another elite tier martial arts. Even without the inner power or whatever it enables him to use it to beat strong people. By this point he's met Poison/Beggar. That's 2/4 top 4 in the world. And he's learned from both of them. So what's next? He meets the 3rd of the 4 of course. He meets Huang Yaoshi and of course... he learns another set of martial arts from him. At this point he's met 3/4 previous generation gods and learned from all of them. 
+
+When he meets Huang Yaoshi... at age 20 he was already at the level of age 30 of the great. It basically shows what a prodigy he is... and in addition to his great talents he was fortunate to learn from literally the 3 best of the world. Blah blah blah... some events later he learns in interals of the dog beating stick. At this point... he's learned 3 god tier martial arts from 3 god tier instructors in addition to his elite tier martial arts and his amazing talents. If he just practiced any of the 3 sets to perfect he'd be a god already. But instead he fuses all of them into his own blend of martial arts to quickly elevate his game.
+
+Fast forward... who does he meet? Of course... the last of the 4 gods. Zhou Botong. The old man child. At this point he doesn't learn any martial arts from him. But just by meeting him is quite the rare. I mean... how many people in the world get to meet one of the four gods? And he meets 4/4 gods. Before the age of 25. Yang Guo is on the road to becoming god tier in his 20s. That would be too easy of a hero story of course. So we gotta throw in some trials and tribulations.
+
+He gets fatally poisoned. Ohs noes. His life is gonna end. While poisoned... he gets his arm chopped off. Omg. Injustice. Life is so unfair. But wait... he gets saved by a legendary condor. The condor brings him to the grave of a historical swordsman. The swordsman who changed himself to be named Forever Alone wanting defeat. That's like... literally his name that's renowned. He was never ever defeated. In front of the man's tomb... there are swords that represents the phases in his life of his greatness. In phase 1 he had the perfect sword with perfect skill which made him unbeatable. The next phase is the heavy sword. The heavy sword which weights 80 kilos allowed him to brute force his way through all his enemies. And the last phase is the no sword phase. Twigs and pencils could be used as a sword. No sword became better than the sword and he was unbeatable. 
+
+Not only did Yang Guo meet the top 4 of the previous generation. He stumbles upon the legendary guy who was unbeatable. Literally unbeatable. And he indirectly gets to learn the sword art from this guy. Forever Alone has no powerscale but it's safe to say that he's better than all of the top 4. With Condor giving him legendary magical food to raise his internal energy and the heavy sword. He trains here until he masters the fundamentals of the heavy sword. He's almost at the level of the unbeatable dude at age 30 and he's not even 30 yet. And his poison is of course magically healed since the condor gave him magic uber stat boosting food.
+
+So Yang Guo in addition to his godly talents had top 4 + god guidance + magic. It allowed him to reach top of the world before he was 30. That's just... crazy man. I guess... if you aren't born lucky or get crazy luck. You'll just end up being a scrub. You could learn martial arts and stuff... but the greats always descent by great. It's a great nepotism in the martial arts world. Well... maybe not but that's what it looks like from this series. I mean... sure if YG wasn't as talented as he was he wouldn't have benefitted or whatever. But I think anyone with the luck that he had to meet the people he did would become badass. 
+
+I think the thought that I wanted to dissect was that... you only become top of the world through sheer luck and chance occurences. There's like a huge survivorship bias and plot armor. In real life... Yang Guo would've died so many times. It feels like all stories are the product of an uber lucky multiverse. Where almost everything falls into place. Or where even though there's horrible shitty events... shit always works out and you come out better. I mean... how many of us have the luck of training with the best in the world. I'd say pretty much none. 
+
+***tl;dr - all wuxia stories feels like the product of all random chance factors perfectly rolled into one. It's like survivorship bias with plot armor that enables you to level up to the extreme. Regular joes are always fodder because they don't get the opportunities***
+
+
+
+
+
+
+
