@@ -1,8 +1,8 @@
---
+---
 layout: post
 title: "Legend of the Condor Heroes"
 date:  2016-01-16 17:00:51
-categories: [thoughts]
+categories: [thoughts, wuxia]
 ---
 I really like wuxia. I think growing up watching wuxia shows on TV was shaping my mind and stuff. I recently watched the 2015 version of Legend of the Condor heroes. I've seen the show so many times... from the Louis Koo version to the Liu Yifei version and a few in between.
 
