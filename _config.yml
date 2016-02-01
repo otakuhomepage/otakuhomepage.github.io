@@ -15,3 +15,7 @@ menu-categories: [about, anime, manga, jdrama, ted, thankful, weekly, video game
 alan-tags: [anime, manga, video games, movies, random, daily, weekly]
 alan-categories: [about, anime, manga, jdrama, learnings, video games, books, programming, stuff, ted, thankful]
 paginate: 15
+
+gems:
+  - jekyll-feed
+
