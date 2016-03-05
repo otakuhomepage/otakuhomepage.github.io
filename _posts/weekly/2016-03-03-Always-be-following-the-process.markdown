@@ -11,5 +11,3 @@ I think... working out when sleep deprived and stressed out at work all the time
 I took a video with Miles sensei to mark my 2 month progress. It's pretty neat. I gotta work the next two saturdays. Blargh. I'm not the type to complain.. but I do think the workload is intense. At the same time... there have been people that work longer hours than me at my company. And from what I hear of other people who work 80 hours a week.. I guess it's not too bad. It's just that I really miss having a nice day on the weekend just to go out and read a book in a coffee shop. I'm down to my last two pairs of underwear. Which means I gotta spend all of Sunday doing laundry. /shrug.
 
 Everything is easy. There's no point in thinking it's hard. Cause it'll be hard if I think it's hard and it'll be easy if I think it's easy. So why make it hard on myself. Tomorrow is gonna be easy. Saturday is gonna be easy. Then laundry sunday will be easy. Life is fucking good.
-
-
