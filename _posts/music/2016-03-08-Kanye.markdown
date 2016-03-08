@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Kanye"
+date:  2016-03-08 01:50:47
+categories: [music]
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8ELh8eOzq_0" frameborder="0" allowfullscreen></iframe>
+
+I wanna be like Kanye. So good. Just so good.
