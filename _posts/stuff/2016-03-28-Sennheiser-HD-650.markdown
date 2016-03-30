@@ -20,4 +20,6 @@ I actually don't use the headphones for movies / anime / video games. But I imag
 
 In conclusion I'm more shocked that I bought $400 headphones for myself. My headphones is equivalent to a PS4. It's more expensive than my cellphone + tablet. And when I'm planning on getting a laptop in 2016... It's gonna only be ~$500. I'd say it's totally worth it though. Considering the joy that music brings me.
 
+I feel compelled to write one negative thing about it so here it is. The bad thing about these headphones besides the clamping and lack of comfort compared to the 598s. Is that the music is just so captivating. When I listen to music with it during reading / coding. Sometimes I just end up enjoying the music and spacing out. Clamp / discomfort and the sound is too distracting.
+
 ***tl;dr - enjoy music on another level. just get [it](http://amzn.to/1XZk8yn)***
