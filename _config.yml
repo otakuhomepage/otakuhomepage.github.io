@@ -13,6 +13,7 @@ markdown: kramdown
 
 menu-categories: [about, anime, manga, jdrama, ted, thankful, weekly, video games, books, movies, music, programming, stuff]
 alan-tags: [anime, manga, video games, movies, random, daily, weekly]
+lang: [en, ja, ch]
 alan-categories: [about, anime, manga, jdrama, learnings, video games, books, movies, music, programming, stuff, ted, thankful]
 paginate: 15
 
