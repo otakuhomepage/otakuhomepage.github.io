@@ -1,0 +1,17 @@
+---
+layout: post
+title: "wow... time just flies"
+date:  2017-05-15 19:51:02
+categories: [weekly, daily]
+---
+Uh. So. I kinda took a one week break. I basically spent one week doing... nothing? Not doing real work... or studying haskell. I still read some manga... but I actually have no idea how I spent my time. Probably just wasted on hacker news.
+
+But it's fixed now. Because I went to the gym today. I think having habits and good routine that you can fall back on just eventually resets you back towards the path. I ran for 15 minutes at 15.1 km/h. So... 25% of the way towards my 60 minute goal. Except... I should be 66% of the way there since... it's already mid may and uh... I only have 33% of Tokyo time left. Damn. DAMN. Time goes by so fast.
+
+There's been an article that I've been meaning to read. But I still haven't gotten to reading. On the shortness of life by Lucious Seneca. I mean. Perception of time is just... it's been studied but I think everyone feels time differently, even though time is the same for everyone. I mean... running that 20 minutes on the treadmill... feels like forever. Sitting in the sauna for only 8 minutes... feels like forever. But then watching anime on netflix.. time goes by so fast.
+
+I mean... it felt like just... recently that I moved to Japan and was playing Persona 5. It blew my mind. And suddenly it's May and I've put in over 100 hours into Persona 5. Heh. Yeah. Well. I'm gonna work on lesson 8 of Haskell. I think I'm almost done with the whole course. The last 2 assignments... I'm just gonna try and learn from the solutions because I've struggled enough. I think... struggle -> solution is better learning anyways. I guess learning my own way is why I'm enjoying it much more than my actualy university experience. Oh man. The actual university experience is just so... bad. Like... if I had to be graded on this stupidity... I'd just be so sad. But since I'm learning just for learning it feels so much better.
+
+I recently discovered the scoring on karaoke machines. Can't wait til I can hit the 90 points. That's my goal. 90 points. My mind is blown... the people that I've been going to karaoke with... they all hit 90. Dafaq. I think it's a combination of me being bad and also them being good. It makes the gap look much bigger. But it's okay. I know that through effort and practice I'll reach 90 points. I think that's the most important lesson. That hard work and persistance can get you to 90% of pro.
+
+As for the last 10%... I dunno. I think you just gotta be obsessed and crazy. Really into it. If you aren't really into it. You won't ever reach the pinnacle. Which. Is okay for certain things. Okay. Time to Haskell.
