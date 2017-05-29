@@ -1,0 +1,13 @@
+---
+layout: post
+title: "30 minutes at 15.1"
+date:  2017-05-29 20:03:36
+categories: [weekly, daily]
+---
+I am a badass. I ran 30 minutes at 15.1. It was a strange experience. So I did 3 minutes of warm up between 11~13. Then went to 15.1 km/h and just ran. At minute 25 or so... man. It felt like I was gonna die. That I was liable to fall off the treadmill. Even though... I don't think that would happen. So what happened is that I turned down the elevation to 0. I normally run with 1% elevation... even with the elevation lowered... I still felt like death. So what happened was... I gripped the handle bars for 15 seconds... then let go for 45 seconds. Between minute 25 ~ 33. So uh... I did that for 8 whole minutes. Where I would grip the handle bar to try and recover some stamina and slow down my breathing. Heh. Too jokes. Well. I told myself that I'd... run for 30 minutes today... at 15.1 or die trying. And I guess I made my goal even though I took advantage of using the bars. Which was bad... but it's a weird feeling.
+
+Running on the treadmill. It legitimately felt like I was gonna die... or just slow down trip and faceplant. But - if you asked me beforehand... to bet if I'd die or live. I'd bet my entire net worth on me living after 30 minutes at 15.1 with a 1% incline. Even if you take away the fact that if I died... it wouldn't matter that I'm broke. Suppose that there was a phoenix down available so that I'd come back alive but broke. I'd still bet everything on me being alive. Anyways... I ran for the 30 minutes at 15.1. Next month is 40 minutes. Then by August.. I'll hit the 60 minutes.
+
+Uh. Pretty intense huh. I've skipped a few sessions of streaming haskell. It's because... I can't see the way forward. I still don't completely understand monoids, functors, applicative functors and monads. It's like... debugging. When you don't know the cause/bug. It's impossible, you just gotta keep looking. But as soon as you find it, figure it out... it becomes really easy. It's binary. I think... you just need to have faith. I do have faith. I'm sure that I'll eventually figure out all the greatness that haskell has to offer... but I guess... it's just always a struggle. Like how running on the treadmill is a struggle.
+
+Okay. Just do it. Time to stream Haskell. Even if it's me just not writing any code and struggling. It's time put into struggling... which I believe will make me stronger. Heh.
